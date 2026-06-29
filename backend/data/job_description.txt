@@ -1,0 +1,41 @@
+Senior Machine Learning Engineer
+
+TechCorp is seeking a Senior Machine Learning Engineer to join our AI team.
+
+About the Role:
+We are building next-generation AI products powered by large language models and vector search technologies. You will be responsible for designing, implementing, and deploying ML systems at scale.
+
+Required Skills:
+- 5+ years of experience in software engineering
+- Strong proficiency in Python
+- Deep understanding of machine learning and deep learning frameworks (PyTorch, TensorFlow)
+- Experience with production ML systems
+- Strong background in API development (FastAPI, Flask, or Django)
+- Experience with vector databases and semantic search
+- Understanding of LLMs and generative AI
+
+Preferred Skills:
+- Experience with RAG (Retrieval Augmented Generation) systems
+- Knowledge of MLOps and model deployment
+- Experience with cloud platforms (AWS, GCP, Azure)
+- Contributions to open source projects
+- Experience with data pipelines and ETL
+
+Responsibilities:
+• Design and implement scalable ML systems
+• Build and optimize vector search infrastructure
+• Develop APIs for ML model serving
+• Collaborate with product teams to deliver AI features
+• Mentor junior engineers
+• Stay current with latest AI/ML research
+
+Industry: Technology
+Seniority: Senior
+Years of Experience: 5+
+Education: Bachelor's degree in Computer Science or related field
+
+Behavioral Expectations:
+- Strong communication and collaboration skills
+- Self-motivated and proactive
+- Ability to work in a fast-paced startup environment
+- Leadership and mentoring capabilities
